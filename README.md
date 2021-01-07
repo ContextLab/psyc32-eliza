@@ -1,6 +1,6 @@
 # ELIZA
 
-This is a template repository for **PSYC 132 Assignment 3: ELIZA**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](https://classroom.github.com/a/7b99w_qT), open (click) the `eliza.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
+This is a template repository for **PSYC 132 Assignment 3: ELIZA**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  After [accepting the assignment](https://classroom.github.com/a/05_59FMz), open (click) the `eliza.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
 # Setup and submission
 
